@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace learn_xamarin
 {
-    [Activity(Label = "learn_xamarin", MainLauncher = true)]
+    [Activity(Label = "Home: Demo Xamarin", MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
